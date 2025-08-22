@@ -1,0 +1,8 @@
+input_text,Upload Image,output,timestamp
+Tomorrow I have missed the session. I am software engineer and I work on BSP domain. I want to go through this all topics that is shown in uploaded picture. Explain everything in very details with proper logic and use case flow. use Hinenglish language to explain. ,.gradio\flagged\Upload Image\cf3d7b1d91cba8fbb9de\2.jpg,"✅ Image saved at memory/images\uploaded_image.png
+
+📖 Extracted Text:
+Error extracting text: tesseract is not installed or it's not in your PATH. See README file for more information.
+
+🤖 You said: Tomorrow I have missed the session. I am software engineer and I work on BSP domain. I want to go through this all topics that is shown in uploaded picture. Explain everything in very details with proper logic and use case flow. use Hinenglish language to explain. ",2025-08-22 07:53:06.878877
+who is the cm of Bihar?,,🤖 You said: who is the cm of Bihar?,2025-08-22 07:53:54.613394

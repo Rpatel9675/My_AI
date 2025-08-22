@@ -1,0 +1,11 @@
+gradio
+requests
+pillow
+pytesseract
+chromadb
+sentence-transformers
+pypdf
+faiss-cpu
+numpy
+transformers
+torch
